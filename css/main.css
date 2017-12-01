@@ -130,4 +130,6 @@ input[type=text] {
     display: block !important;
     float: none !important; }
   .nav-bar {
-    height: 120px !important; } }
+    height: 120px !important; }
+  .left img {
+    width: auto; } }
