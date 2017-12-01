@@ -132,4 +132,4 @@ input[type=text] {
   .nav-bar {
     height: 120px !important; }
   .left img {
-    width: 300px; } }
+    width: 300px !important; } }
